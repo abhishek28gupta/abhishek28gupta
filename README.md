@@ -37,6 +37,23 @@
 
 ---
 
+## 💼 Notable Projects
+
+**🔹 Tomato Disease Detection System**  
+*Tech:* Django, ResNet-50, TensorFlow  
+> 99% accuracy in disease prediction using computer vision & deep learning  
+
+**🔹 Fashion Recommendation System**  
+*Tech:* CNN, TensorFlow, Nearest Neighbor, Streamlit 
+> Outfit recommendation using image-based similarity and deep learning.  
+
+**🔹 Responsive Weather Forecast Website**  
+*Tech:* HTML, CSS, JS, OpenWeatherMap API  
+> Live weather updates with interactive UI and location-based forecasts.
+
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gupta-9b4819226/)
