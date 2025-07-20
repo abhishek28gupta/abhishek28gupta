@@ -37,7 +37,7 @@
 
 ---
 
-## 💼 Notable Projects
+## 💼 Projects
 
 **🔹 Tomato Disease Detection System**  
 *Tech:* Django, ResNet-50, TensorFlow  
